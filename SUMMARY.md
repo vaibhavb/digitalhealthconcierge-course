@@ -1,7 +1,11 @@
 # Table of contents
 
-* [Introduction to Digital Health](README.md)
-* [Navigating The Healthcare System](navigating-the-healthcare-system.md)
+* [Preface](README.md)
+
+## Healthcare Needs Digital Data Experts
+
+* [Introduction to Digital Health](healthcare-needs-digital-data-experts/introduction-to-digital-health.md)
+* [Navigating The Healthcare System](healthcare-needs-digital-data-experts/navigating-the-healthcare-system.md)
 
 ## Technologies Enabling Digital Health <a id="technologies-enables-digital-health"></a>
 
