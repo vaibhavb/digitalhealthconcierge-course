@@ -26,3 +26,7 @@ description: Program References.
 
 ![](.gitbook/assets/41tctyv4adl.jpg)
 
+* [How to read a paper](https://www.amazon.com/How-Read-Paper-Evidence-based-Healthcare/dp/111948474X)
+
+![](.gitbook/assets/41d63kjk4fl._sx351_bo1-204-203-200_.jpg)
+
