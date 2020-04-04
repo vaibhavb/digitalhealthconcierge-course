@@ -1,15 +1,5 @@
 # Create A Patient Journey
 
-* Coordinate care and communicate with your medical team
-* Help with medical decision-making
-* Oversee care and support during hospitalization
-* Research treatment options and sources for excellent care or second opinions
-* Review and organize medical records
-* Help you understand treatment options
-* Accompany you to medical appointments
-* Assist with aging relatives
-* Organize your “end-of-life” documents
-
 With sample medical records online.  Prepare a summary of the patient journey
 
 Rate sheets of Hospitals - Prices of all of the hospitals in the area. 

@@ -16,16 +16,19 @@
 
 * [Evaluating Health Information for Decision Making & Advocacy](healthcare-silos-understanding-care-scenarios-where-digital-health-matters/evaluating-health-information-for-decision-making-and-advocacy.md)
 * [Families and Digital Health](healthcare-silos-understanding-care-scenarios-where-digital-health-matters/families-and-digital-health.md)
+* [Pediatric Scenarios](healthcare-silos-understanding-care-scenarios-where-digital-health-matters/pediatric-scenarios.md)
 * [Aging Scenarios](healthcare-silos-understanding-care-scenarios-where-digital-health-matters/aging-scenarios.md)
 
 ## Investigative Data Science For Healthcare
 
 * [Where are the source of Healthcare Data?](investigative-data-science-for-healthcare/where-are-the-source-of-healthcare-data.md)
 * [How to get the data you need?](investigative-data-science-for-healthcare/how-to-get-the-data-you-need.md)
+* [Healthcare Economics](investigative-data-science-for-healthcare/healthcare-economics.md)
 * [Back of the envelope data science](investigative-data-science-for-healthcare/back-of-the-envelope-data-science.md)
 
 ## Scenario - Case Studies
 
+* [Potential Case Scenarios](scenario-case-studies/potential-case-scenarios.md)
 * [Create A Patient Journey](scenario-case-studies/create-a-patient-journey.md)
 * [Create Patient Recommendations](scenario-case-studies/create-patient-recommendations.md)
 * [Infection Disease Management](scenario-case-studies/infection-disease-management.md)
