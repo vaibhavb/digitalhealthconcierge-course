@@ -9,4 +9,5 @@
 * Accompany you to medical appointments
 * Assist with aging relatives
 * Organize your “end-of-life” documents
+* Specific to a category : pediatrics, elder care, disabilities, mental illness, chronic disease, death and dying.
 

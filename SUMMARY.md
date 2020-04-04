@@ -1,6 +1,7 @@
 # Table of contents
 
 * [Introduction to Digital Health](README.md)
+* [Navigating The Healthcare System](navigating-the-healthcare-system.md)
 
 ## Technologies Enabling Digital Health <a id="technologies-enables-digital-health"></a>
 
@@ -25,6 +26,7 @@
 * [How to get the data you need?](investigative-data-science-for-healthcare/how-to-get-the-data-you-need.md)
 * [Healthcare Economics](investigative-data-science-for-healthcare/healthcare-economics.md)
 * [Back of the envelope data science](investigative-data-science-for-healthcare/back-of-the-envelope-data-science.md)
+* [Communication](investigative-data-science-for-healthcare/communication.md)
 
 ## Scenario - Case Studies
 
