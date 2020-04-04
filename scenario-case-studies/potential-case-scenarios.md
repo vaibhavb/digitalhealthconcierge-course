@@ -11,3 +11,8 @@
 * Organize your “end-of-life” documents
 * Specific to a category : pediatrics, elder care, disabilities, mental illness, chronic disease, death and dying.
 
+## Potential Case Partners
+
+* Patient volunteers from Twitter
+* Non Profit Hospitals - [Lifespan](https://www.lifespan.org/about-lifespan).
+
