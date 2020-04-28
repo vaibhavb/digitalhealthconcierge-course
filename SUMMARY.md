@@ -16,6 +16,7 @@
 * [Prescription Management](technologies-enables-digital-health/prescription-management.md)
 * [Lab Management](technologies-enables-digital-health/lab-management.md)
 * [DICOM - Medical Imaging](technologies-enables-digital-health/dicom-medical-imaging.md)
+* [Remote Consultation](technologies-enables-digital-health/remote-consultation.md)
 
 ## Healthcare Silos - Understanding Care Scenarios Where Digital Health Matters
 
