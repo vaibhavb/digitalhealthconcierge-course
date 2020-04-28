@@ -4,9 +4,10 @@ We expect this course to be part of a case or work. Participants with Masters or
 
 ## Potential Career Paths
 
-* Medical Record Analyst
 * Care Manager
 * Patient Navigator
-* Family Advisor
-* Discharge Planner 
+* Discharge Planner
+* Without College Degree
+  * Medical Record Analyst
+  * Family Advisor 
 
