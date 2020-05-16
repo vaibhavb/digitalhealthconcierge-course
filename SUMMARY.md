@@ -1,7 +1,6 @@
 # Table of contents
 
 * [✨ Preface](README.md)
-* [Untitled](untitled.md)
 
 ## Healthcare Needs Digital Data Experts
 
