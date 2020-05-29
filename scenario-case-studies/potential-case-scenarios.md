@@ -79,4 +79,5 @@ Through the duration of the course the student will cover the following activiti
 
 * Patient volunteers from Twitter
 * Non Profit Hospitals - [Lifespan](https://www.lifespan.org/about-lifespan).
+* Rare diseases - [Global Genes](https://globalgenes.org/).
 
