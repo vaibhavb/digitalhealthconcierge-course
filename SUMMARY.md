@@ -38,8 +38,11 @@
 * [Potential Case Scenarios](scenario-case-studies/potential-case-scenarios.md)
 * [Create A Patient Journey](scenario-case-studies/create-a-patient-journey.md)
 * [Create Patient Recommendations](scenario-case-studies/create-patient-recommendations.md)
-* [Infection Disease Management](scenario-case-studies/infection-disease-management.md)
+* [Infectious Disease Management](scenario-case-studies/infection-disease-management.md)
 * [Health Advocate](scenario-case-studies/health-advocate.md)
+
+---
+
 * [Program Outcomes](program-outcomes.md)
 * [Changelog](changelog.md)
 * [References](references.md)

@@ -2,5 +2,5 @@
 description: COVID Scenarios
 ---
 
-# Infection Disease Management
+# Infectious Disease Management
 
